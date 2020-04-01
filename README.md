@@ -1,4 +1,3 @@
-[![Waffle.io - Columns and their card count](https://badge.waffle.io/campDevs/DiscordBot.png?columns=all)](https://waffle.io/campDevs/DiscordBot?utm_source=badge)
 # General Purpose Discord Bot
 
 > self-hosted modular bot
